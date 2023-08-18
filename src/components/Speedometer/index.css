@@ -33,6 +33,8 @@
   height: 28px;
   width: 70px;
   font-size: 10px;
+  cursor: pointer;
+  outline: none;
 }
 
 .brake-btn {
@@ -44,4 +46,6 @@
   height: 28px;
   width: 70px;
   font-size: 10px;
+  cursor: pointer;
+  outline: none;
 }
